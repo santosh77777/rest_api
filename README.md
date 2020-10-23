@@ -6,7 +6,10 @@
 
 Get all the members in database:
 
+```
 [GET Method](http://santoshk.pythonanywhere.com/api/members/)
+
+```
 
 Create new member into database:
 

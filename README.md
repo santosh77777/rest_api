@@ -67,4 +67,7 @@ Now you can run the project with this command:
 python manage.py runserver
 ```
 
+---
+
+
 *** Thank You ***
